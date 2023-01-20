@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "4F7SW76LL6.com.di.AutoPassword-iOS12",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.QA",
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "4F7SW76LL6.com.di.AutoPassword-iOS12",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.QA",
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev"
         ],
         "details": [
             {
-                "appID": "4F7SW76LL6.com.di.AutoPassword-iOS12",
+                "appID": "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
                 "paths": [
                     "*"
                 ]
