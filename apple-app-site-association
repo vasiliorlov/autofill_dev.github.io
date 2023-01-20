@@ -1,24 +1,7 @@
 {
     "webcredentials": {
         "apps": [
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.QA",
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev"
-        ]
-    },
-    "applinks": {
-        "apps": [
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.QA",
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev"
-        ],
-        "details": [
-            {
-                "appID": "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
-                "paths": [
-                    "*"
-                ]
-            }
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup"
         ]
     }
 }
