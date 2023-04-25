@@ -3,18 +3,25 @@
         "apps": [
             "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
             "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.QA",
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev"
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev",
+            "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup",
+            "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup.QA",
+            "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup.Dev"                    
         ]
     },
     "applinks": {
         "apps": [
             "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
             "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.QA",
-            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev"
+            "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup.Dev",
+            "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup",
+            "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup.QA",
+            "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup.Dev",
+            
         ],
         "details": [
             {
-                "appID": "4ENN86854Z.com.intellimec.telematics.allianzexternalgroup",
+                "appID": "DKS2HKMJ7H.com.intellimec.telematics.allianzexternalgroup",
                 "paths": [
                     "*"
                 ]
